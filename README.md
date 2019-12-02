@@ -11,11 +11,11 @@ This repository consists of:
 Covers basic regression topics using python examples
 
 ### Table of Contents
-- 1. Simple linear regression
-- 2. Multiple linear regression model
-- 3. Regression diagnostics
-- 4. Interpreting regression
-- A. Appendix
+1. Simple linear regression
+2. Multiple linear regression model
+3. Regression diagnostics
+4. Interpreting regression
+A. Appendix
 
 ## 2. Stats_Prob_MLE_Bayes.ipynb
 Covers basic statstics, probability, Maximum Likelihood Estimation, and an intro to Bayes
