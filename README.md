@@ -26,17 +26,3 @@ Covers basic statstics, probability, Maximum Likelihood Estimation, and an intro
 3. Statistics
 4. Maximum Likelihood
 5. Baye's theorem
-
-## 3. Time_series.ipynb
-Introduction to ARMA processes, MA, AR, non-stationarity
-
-### Table of Contents
-1. Difference equations
-2. Lag operators
-3. Stationarity
-4. ARMA Processes
-5. Non-stationary Models
-6. Processes with Deterministic Time Trends
-7. Univariate processes with unit roots
-8. Multivariate processes with unit roots
-9. Cointegration
